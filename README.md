@@ -130,4 +130,4 @@ things; the disagreements are where the value lives.
 
 ## License
 
-MIT — see [LICENSE](LICENSE).
+GPL-3.0 — see [LICENSE](LICENSE).

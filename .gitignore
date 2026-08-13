@@ -179,3 +179,8 @@ cython_debug/
 #  refer to https://docs.cursor.com/context/ignore-files
 .cursorignore
 .cursorindexingignore
+# llm_council: per-user codex profile - keep only config.toml, never credentials
+.codex_clean/*
+!.codex_clean/config.toml
+# council outputs never belong in this repo
+council_runs/
